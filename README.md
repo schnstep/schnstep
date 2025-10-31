@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, my name is Stephan Schneider 👋
+# I'm currently finishing my Management, Communication, and IT Master's program at the Management Center Innsbruck
+# On the side, I'm working on developing skills to become an AI consultant focused on AI automation.
+# This profile will serve as my playground to share my progress in developing useful Python and Bash scripts.
 
-<!--
-**schnstep/schnstep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My focus areas:
+- **Process Automation:** Build scripts that eliminate manual work
+- **AI Integration:** Implement LLMs, RAG systems, and computer vision
+- **Business Optimization:** Identify and automate inefficient workflows
 
-Here are some ideas to get you started:
+### My Portfolio highlights:
+- Download Organizer: Bash script that automates file organization based on file type (https://github.com/schnstep/download-organizer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me:
+- LinkedIn: https://www.linkedin.com/in/schnstep/
+- Email: schnstep@gmail.com
